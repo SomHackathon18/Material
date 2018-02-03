@@ -1,4 +1,4 @@
-Invitació a l'Slack:
+# Invitació a l'Slack:
 
 Benvinguts a Som Hackathon 2018. A aquest Slack podeu compartir informació amb el vostre grup (als canals #grup01 fins #grup10). Podeu compartir informació entre grups ( #general, #organitzacio, #aleatori, #mentors, #networking i #dades)
 
