@@ -1,0 +1,1 @@
+https://join.slack.com/t/somhackathon18/shared_invite/enQtMzEwNDYwMzQ5MDQ3LWFlMGFiYmVkOTk2ZDBmNjg0M2NkNjczODY5M2RiN2U3Y2VjMWE0NTUzZmMzMjNhZDNhMjBkNjFiYzFlNjUzNTc
